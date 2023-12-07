@@ -22,8 +22,8 @@ curl https://raw.githubusercontent.com/wusung/thingsboard-installer/master/insta
 
 ### Modify thingsboard-edge/docker-compose.yml
 ```
-CLOUD_ROUTING_KEY: e31631b3-1c9a-460f-50e2-c7d603786d86
-CLOUD_ROUTING_SECRET: uwpw19216g6gbmpqgfho
+CLOUD_ROUTING_KEY: 2e37865d-f646-5a79-96fa-9336f8f074d7
+CLOUD_ROUTING_SECRET: 739tad312smpbzp7b9nb
 ```
 
 ### Install the edge
