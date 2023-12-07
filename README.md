@@ -8,7 +8,7 @@ sudo apt install -y docker.io docker-compose-v2
 sudo usermod -aG docker $USER
 ```
 
-## Install thingbsboard dashboard
+## Install thingsboard dashboard
 
 ```
 curl https://raw.githubusercontent.com/wusung/thingsboard-installer/master/install-dash.sh | bash -s --
