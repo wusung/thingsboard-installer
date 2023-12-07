@@ -12,7 +12,7 @@ sudo usermod -aG docker $USER
 ## Install thingbsboard dashboard
 
 ```
-curl https://raw.githubusercontent.com/wusung/thingsboard-installer/master/installer-dash.sh | bash -s --
+curl https://raw.githubusercontent.com/wusung/thingsboard-installer/master/install-dash.sh | bash -s --
 ```
 
 
@@ -20,5 +20,5 @@ curl https://raw.githubusercontent.com/wusung/thingsboard-installer/master/insta
 
 ## Install thingsboard edge
 ```
-curl https://raw.githubusercontent.com/wusung/thingsboard-installer/master/installer-edge.sh | bash -s --
+curl https://raw.githubusercontent.com/wusung/thingsboard-installer/master/instal-edge.sh | bash -s --
 ```
