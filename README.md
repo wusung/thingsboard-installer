@@ -18,6 +18,7 @@ curl https://raw.githubusercontent.com/wusung/thingsboard-installer/master/insta
 ## Install thingsboard edge
 
 ### Create the edge key/secret in ThingsBoard/Edge Management/Instances
+![image](https://github.com/wusung/thingsboard-installer/assets/5467467/f35158a4-2f70-49db-aa51-658812c9e4e0)
 
 ### Modify thingsboard-edge/docker-compose.yml
 ```
