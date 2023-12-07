@@ -14,6 +14,8 @@ sudo usermod -aG docker $USER
 curl https://raw.githubusercontent.com/wusung/thingsboard-installer/master/install-dash.sh | bash -s --
 ```
 
+## #Open thingsboard in http://127.0.0.1:8080
+
 
 ## Install thingsboard edge
 
@@ -30,3 +32,5 @@ CLOUD_ROUTING_SECRET: 739tad312smpbzp7b9nb
 ```
 curl https://raw.githubusercontent.com/wusung/thingsboard-installer/master/install-edge.sh | bash -s --
 ```
+
+### Open thingsboard edge in http://127.0.0.1:18080
