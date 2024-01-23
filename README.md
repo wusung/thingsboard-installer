@@ -4,8 +4,7 @@
 ## Prerequsis
 
 ```bash
-sudo apt install -y docker.io docker-compose-v2
-sudo usermod -aG docker $USER
+sudo apt install -y git curl
 ```
 
 ## Install thingsboard dashboard
